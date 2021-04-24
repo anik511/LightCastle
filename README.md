@@ -2,6 +2,8 @@
 
 ## preview: https://priceless-carson-0722a0.netlify.app/strategydigital
 
+### Vue, Bootstrap-Vue, Vuex, Vue router, Html, Css
+
 ## Project setup
 ```
 npm install
