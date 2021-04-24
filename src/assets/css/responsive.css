@@ -1,0 +1,456 @@
+@media only screen and (max-width: 1200px) {
+}
+@media only screen and (max-width: 1025px) {
+  /* Featured Insights code starts */
+  .startup {
+    padding: 28.7rem 2.5rem 13.8rem 2.5rem !important;
+  }
+  /* Featured Insights code end */
+
+  /* Countdown code starts */
+  .timer {
+    padding: 14.4rem 2rem !important;
+  }
+  /* Countdown code end */
+
+  /* footer code starts */
+  .footer-right ul li {
+    margin-right: 2.5rem !important;
+  }
+  /* footer code ends */
+}
+
+@media only screen and (max-width: 980px) {
+  /* nav code starts */
+  .top-header .left-ul li:last-child {
+    padding: 0 !important;
+  }
+  /* nav code ends */
+
+  .hero {
+    padding-right: 11rem !important;
+  }
+
+  /* About code starts */
+  .card img {
+    padding: 0.5rem 0 0rem 0 !important;
+  }
+  .card-deck .card .card-body {
+    padding-top: 2rem !important;
+  }
+  .card-deck .card .card-body .card-text h2 {
+    font-size: 2.6rem !important;
+    margin-bottom: 2rem !important;
+  }
+  .about-content {
+    padding-right: 5rem !important;
+  }
+  .about-content h1 {
+    font-size: 3rem !important;
+  }
+  /* About code end */
+
+  /* Featured Insights code starts */
+  .featured h1 {
+    font-size: 3.3rem !important;
+  }
+  .startup {
+    padding: 28.7rem 2.5rem 8.8rem 2.5rem !important;
+    margin-bottom: 2rem !important;
+  }
+  /* Featured Insights code ends */
+
+  /* Featured video code starts */
+  .col .card {
+    margin-bottom: 2rem;
+  }
+  /* Featured video code end */
+
+  /* countdown code starts */
+  .timer {
+    padding: 8.4rem 13.3rem !important;
+    background-color: aliceblue;
+  }
+  /* countdown code end */
+
+  .footer-right ul {
+    display: block !important;
+  }
+  .footer-right ul li {
+    margin-right: 0 !important;
+    margin-bottom: 1rem;
+  }
+}
+@media only screen and (max-width: 767px) {
+  /* changing font-size of text */
+  html {
+    font-size: 45.5% !important;
+  }
+  /* changing font-size of text */
+
+  /* nav code starts */
+  .top-header .left-ul li {
+    margin-right: 2rem !important;
+  }
+
+  .top-header .right .btn {
+    margin-bottom: 2rem;
+  }
+  /* nav code ends */
+
+  /* hero codes starts */
+  .hero h1 {
+    font-size: 2.4rem !important;
+  }
+  .hero-flex img {
+    display: none;
+  }
+  /* hero code ends */
+
+  /* about code starts */
+  .timeline {
+    padding: 5px 30px !important;
+  }
+  .service div h1 {
+    text-align: center;
+  }
+  /* about code ends */
+
+  /* all the sections which has featured class */
+  .featured {
+    padding-bottom: 5rem !important;
+  }
+  .featured-top {
+    margin-bottom: 2rem !important;
+    text-align: center !important;
+  }
+  .featured-top .right {
+    margin-bottom: 2rem !important;
+  }
+  .featured h1 {
+    text-align: center !important;
+  }
+  .featured .right {
+    float: none !important;
+  }
+  /* all the sections which has featured class */
+
+  /* Our servises code start */
+  .service {
+    padding-top: 5rem !important;
+    padding-bottom: 0rem !important;
+  }
+  .service-tab {
+    font-size: 1.4rem !important;
+  }
+  /* Our servises code ends */
+
+  /* countodown code starts */
+  .timer {
+    padding: 8.4rem 0 !important;
+    padding-left: 10rem !important;
+  }
+  .timer h3 {
+    margin-left: -11rem;
+  }
+  /* countodown code ends */
+
+  /* Featured Insights code starts */
+  .startup {
+    padding: 6.7rem 2.5rem 6.8rem 2.5rem !important;
+  }
+  /* Featured Insights code ends */
+
+  /* countdown and footer newslatter */
+  .input-group-lg > .form-control,
+  .input-group-lg > .custom-select,
+  .input-group-lg > .input-group-prepend > .input-group-text,
+  .input-group-lg > .input-group-append > .input-group-text,
+  .input-group-lg > .input-group-prepend > .btn,
+  .input-group-lg > .input-group-append > .btn {
+    font-size: 1.6rem !important;
+  }
+  /* countdown and footer newslatter */
+
+  .line {
+    margin-top: 5px !important;
+  }
+}
+@media only screen and (max-width: 540px) {
+  /* about  code starts*/
+  .card img {
+    padding: 0.5rem 20rem 0rem 25rem !important;
+  }
+  /* about  code ends*/
+}
+@media only screen and (max-width: 480px) {
+  /* nav code starts */
+  .top-header .left-ul li:last-child {
+    padding: 0 0 0 1rem !important;
+  }
+  .top-header .right {
+    float: none !important;
+    margin-bottom: 1rem;
+  }
+  .nav-item .nav-link {
+    font-size: 2.6rem !important;
+  }
+  /* nav code ends */
+
+  /* hero code starts */
+  .hero {
+    padding: 0 3rem !important;
+  }
+  .buttons .btn {
+    padding: 1.4rem 3rem !important;
+    font-size: 2rem !important;
+  }
+  /* hero code ends */
+
+  /* about code starts */
+  .about-content {
+    padding: 0 3rem !important;
+  }
+  .card img {
+    padding: 0.5rem 20rem !important;
+  }
+  .card-deck .card .card-body .card-text h2 {
+    font-size: 4.6rem !important;
+  }
+  .card-deck .card {
+    margin-left: 0.5rem !important;
+  }
+  .card-text p {
+    font-size: 2.4rem !important;
+  }
+  /* about code ends */
+
+  /* our servises code starts */
+  .service-tab li:last-child::after {
+    margin-top: 1rem !important;
+  }
+  .service-tab {
+    font-size: 1.6rem !important;
+    padding-left: 7rem !important;
+  }
+  .service-tab li {
+    padding: 2rem 1rem !important;
+  }
+  /* our servises code ends */
+
+  /* Featured Insights code starts */
+  .startup {
+    padding: 6.7rem 2.5rem 6.8rem 2.5rem !important;
+  }
+  .starup-contant p {
+    font-size: 2rem !important;
+  }
+  /* Featured Insights code ends */
+
+  /* Featured videos code starts */
+  .card-contant p {
+    font-size: 2rem !important;
+  }
+  /* Featured videos code ends */
+
+  /* countdodn code starts */
+  .timer {
+    padding: 8.4rem 2rem !important;
+  }
+  /* countdodn code ends */
+
+  .footer-right ul {
+    margin-top: 3rem !important;
+  }
+  .footer-left {
+    padding-right: 2rem !important;
+    text-align: center !important;
+  }
+  .footer-left ul li {
+    padding: 12px 16px 8px 16px !important;
+    margin-right: 0rem !important;
+    margin-left: 11rem !important;
+  }
+}
+@media only screen and (max-width: 467px) {
+  /* hero code starts */
+  .buttons .btn:first-child {
+    margin-left: 9.5rem !important;
+  }
+  .buttons .btn:last-child {
+    margin-left: 8rem !important;
+  }
+  /* hero code ends */
+
+  /* about code starts */
+  .card img {
+    padding: 0.5rem 24rem !important;
+  }
+  .card-deck .card .card-body .card-text h2 {
+    font-size: 2.6rem !important;
+  }
+  .card-text p {
+    font-size: 2rem !important;
+  }
+  /* about code ends */
+
+  /* our servises code starts */
+  .service-tab li:last-child::after {
+    margin-top: 1rem !important;
+  }
+  .service div h1 {
+    font-size: 2.8rem !important;
+  }
+  .service-tab {
+    margin-left: 7rem !important;
+  }
+  .service div .content h1 {
+    font-size: 1.6rem !important;
+  }
+  /* our servises code ends */
+
+  /* countdown code starts */
+  .timer {
+    padding: 8.4rem 1rem !important;
+    padding-left: 7rem !important;
+  }
+  /* countdown code ends */
+
+  .featured h1 {
+    padding-left: 3rem !important;
+  }
+  .featured .arek-jhamela {
+    padding-left: 12rem !important;
+  }
+  .footer-left ul li {
+    padding: 15px 16px 0px 16px !important;
+    margin-left: 15rem !important;
+  }
+}
+@media only screen and (max-width: 454px) {
+  .buttons .btn:first-child {
+    margin-left: 18.5rem !important;
+  }
+  .buttons .btn:last-child {
+    margin-left: 17rem !important;
+    margin-top: 2rem;
+  }
+}
+@media only screen and (max-width: 454px) {
+  .timer {
+    padding-left: 2rem !important;
+  }
+  .timer h3 {
+    margin-left: 0rem;
+  }
+}
+@media only screen and (max-width: 375px) {
+  /* hero code starts */
+  .hero .buttons .btn:last-child {
+    margin-left: 1.5rem !important;
+    margin-top: 0rem;
+  }
+  .buttons .btn:first-child {
+    margin-left: 0rem !important;
+  }
+  /* hero code ends */
+
+  /* about code starts */
+  .card-deck .card .card-body .card-text h2 {
+    font-size: 3.6rem !important;
+  }
+  .card img {
+    padding: 0.5rem 17rem !important;
+  }
+  /* about code ends */
+
+  /* our services code starts */
+  .service-tab {
+    margin-left: 2rem !important;
+  }
+  .service h1 {
+    text-align: center !important;
+  }
+  .new-width {
+    width: 100% !important;
+  }
+
+  .service-tab li:last-child::after {
+    margin-top: 1rem !important;
+  }
+  .tab-content {
+    /* padding: 10px 32px; */
+    padding: 1rem 0rem 1rem 10.5rem !important;
+  }
+  .tab-content span {
+    margin-top: 4rem !important;
+  }
+  /* our services code ends */
+
+  .service .jhamela {
+    margin-left: 17.5rem !important;
+    margin-bottom: 0rem !important;
+  }
+  .featured .arek-jhamela {
+    padding-left: 5.5rem !important;
+  }
+
+  /* countdown code starts */
+  .timer {
+    padding: 8.4rem 5rem 7.4rem 13rem !important;
+  }
+  .timer h3 {
+    margin-left: -9rem;
+  }
+  /* countdown code ends */
+
+  .line .content h1 {
+    font-size: 16px !important;
+  }
+  .latest-content h3 {
+    font-size: 1.6rem !important;
+  }
+  .footer-left ul li {
+    margin-left: 10.5rem !important;
+  }
+}
+
+@media only screen and (max-width: 337px) {
+  /* hero code starts */
+  .hero .buttons .btn:last-child {
+    margin-left: 8.5rem !important;
+    margin-top: 2rem;
+  }
+  .buttons .btn:first-child {
+    margin-left: 10rem !important;
+  }
+  /* hero code ends */
+
+  /* Our services code starts */
+  .service-tab li:last-child::after {
+    margin-top: 3.3rem !important;
+  }
+  .tab-content span {
+    margin-left: 9rem !important;
+    margin-top: 0rem !important;
+  }
+  /* Our services code ends */
+
+  .service .jhamela {
+    margin-left: 14.5rem !important;
+  }
+  .featured .arek-jhamela {
+    padding-left: 3rem !important;
+  }
+  .timer {
+    padding: 8.4rem 3rem 7.4rem 11rem !important;
+  }
+}
+@media only screen and (max-width: 280px) {
+  html {
+    font-size: 35.5% !important;
+  }
+  .timer {
+    padding: 8.4rem 3rem 7.4rem 9rem !important;
+  }
+}
